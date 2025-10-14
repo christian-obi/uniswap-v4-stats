@@ -1,5 +1,5 @@
 /*
- * Please refer to https://docs.envio.dev for a thorough guide on all Envio indexer features
+ * Please to refer to https://docs.envio.dev for a thorough guide on all Envio indexer features
  */
 import {
   PoolManager,
